@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instaepta", "Instaepta\Instaepta.csproj", "{71383FB3-F72C-42D3-8B14-47AF2D07172B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71383FB3-F72C-42D3-8B14-47AF2D07172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71383FB3-F72C-42D3-8B14-47AF2D07172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71383FB3-F72C-42D3-8B14-47AF2D07172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71383FB3-F72C-42D3-8B14-47AF2D07172B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E240862-51CF-4CB7-AEFE-F9DDC08CC883}
+	EndGlobalSection
+EndGlobal
